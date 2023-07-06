@@ -1,0 +1,1 @@
+# Pydantic_for_API_example
